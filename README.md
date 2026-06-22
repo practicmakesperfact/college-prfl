@@ -1,16 +1,61 @@
-# React + Vite
+# Addinas College Web Portal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive, and bilingual front-end web portal for **Addinas College**, built with React, Vite, and Tailwind CSS. The application showcases the college's programs, admissions, leadership, and a secure student digital library.
 
-Currently, two official plugins are available:
+## 🌟 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+*   **Bilingual Localization**: Seamlessly switch between English (EN) and Amharic (አማ) without reloading the page. All content, from the navbar to the footer, is dynamically localized.
+*   **Modern UI/UX**: Built with Tailwind CSS, featuring smooth micro-animations, glassmorphism overlays, and a premium color palette tailored for an educational institution.
+*   **Fully Responsive**: Optimized for desktop, tablet, and mobile devices with a custom mobile navigation menu.
+*   **Secure Digital Library (Mockup)**: Includes a protected resource area that requires student authentication (mock flow) before allowing access to downloadable department files.
+*   **Dynamic Sections**:
+    *   **Hero & Stats**: Engaging entry points highlighting college achievements.
+    *   **Programs & Departments**: Detailed breakdowns of academic offerings with distinct visual iconography.
+    *   **Admissions**: A step-by-step guide and an interactive, multi-step Registration Modal.
+    *   **Gallery & Testimonials**: Visual grids and student success stories to build trust.
+    *   **News & Events**: Latest campus updates.
 
-## React Compiler
+## 🚀 Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+*   **Framework**: [React 18](https://react.dev/)
+*   **Build Tool**: [Vite](https://vitejs.dev/)
+*   **Styling**: [Tailwind CSS 3](https://tailwindcss.com/)
+*   **Icons**: [Lucide React](https://lucide.dev/)
 
-## Expanding the ESLint configuration
+## 🛠️ Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+To run this project locally on your machine, follow these steps:
+
+### Prerequisites
+Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
+
+### Installation
+
+1.  **Clone the repository**
+    ```bash
+    git clone https://github.com/practicmakesperfact/college-prfl.git
+    cd college-prfl
+    ```
+
+2.  **Install dependencies**
+    ```bash
+    npm install
+    ```
+
+3.  **Start the development server**
+    ```bash
+    npm run dev
+    ```
+
+4.  **Open in Browser**
+    Navigate to `http://localhost:5173` to view the application.
+
+## 📁 Project Structure
+
+*   `src/components/` - Contains all modular UI sections (Navbar, Hero, About, etc.)
+*   `src/i18n.jsx` - The central translation dictionary and Context Provider handling the EN/AM localization logic.
+*   `src/App.jsx` - The main entry point combining all layout components.
+*   `src/index.css` - Global Tailwind directives and custom animation classes.
+
+## 📝 License
+This project is open-source and available under the MIT License.
