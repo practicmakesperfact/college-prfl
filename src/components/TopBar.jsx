@@ -37,9 +37,9 @@ export default function TopBar() {
             <Phone size={13} />
             <span>+251 91 234 5678</span>
           </a>
-          <a href="mailto:info@addinas-college.edu.et" className="flex items-center gap-1.5 hover:text-yellow-300 transition-colors">
+          <a href="mailto:info@bruh-college.edu.et" className="flex items-center gap-1.5 hover:text-yellow-300 transition-colors">
             <Mail size={13} />
-            <span>info@addinas-college.edu.et</span>
+            <span>info@bruh-college.edu.et</span>
           </a>
           <span className="flex items-center gap-1.5">
             <MapPin size={13} />

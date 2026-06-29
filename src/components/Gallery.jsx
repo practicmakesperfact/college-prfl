@@ -32,7 +32,7 @@ export default function Gallery() {
           {t.gallery.titles.map((title, i) => (
             <div key={title} className="group relative rounded-2xl overflow-hidden aspect-square bg-gray-100 border border-gray-100 hover:shadow-xl transition-shadow cursor-pointer">
               <img 
-                src={`https://picsum.photos/seed/addinas${i}/600/600`} 
+                src={`https://picsum.photos/seed/bruh${i}/600/600`} 
                 alt={title} 
                 className="absolute inset-0 w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
               />

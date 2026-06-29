@@ -21,7 +21,7 @@ const translations = {
       badge: '🎓 Admissions Open 2025/26',
       slides: [
         {
-          title: 'Shape Your Future at Addinas College',
+          title: 'Shape Your Future at Bruh College',
           subtitle: 'Premier Health Science & Business Education in Ethiopia',
           desc: 'Enrollment is open for Degree, TVET, and Extension programs. Join thousands of graduates who have transformed their careers.',
         },
@@ -53,8 +53,8 @@ const translations = {
     // About
     about: {
       tag: 'Who We Are',
-      heading: 'About Addinas College',
-      p1: 'Addinas College is a leading higher education institution in Injibara, Ethiopia, dedicated to producing skilled, ethical, and globally competitive professionals in health sciences and business.',
+      heading: 'About Bruh College',
+      p1: 'Bruh College is a leading higher education institution in Injibara, Ethiopia, dedicated to producing skilled, ethical, and globally competitive professionals in health sciences and business.',
       p2: 'Established over two decades ago, we have grown into a center of academic excellence, offering Degree, TVET, and Extension programs that blend theory with practical experience.',
       features: ['TVET & Degree Accredited', 'Ministry of Education Recognized', 'Industry Partnerships', 'Modern Lab Facilities', 'Experienced Faculty', 'Career Placement Services'],
       missionTitle: 'Our Mission',
@@ -108,7 +108,7 @@ const translations = {
     admissions: {
       tag: 'Join Us',
       heading: 'Admissions',
-      subheading: 'Follow these simple steps to begin your academic journey at Addinas College.',
+      subheading: 'Follow these simple steps to begin your academic journey at Bruh College.',
       howTitle: 'How to Register',
       reqTitle: 'Registration Requirements',
       ctaHeading: 'Ready to Begin Your Journey?',
@@ -120,7 +120,7 @@ const translations = {
         { title: 'Complete Application', desc: 'Fill out the online registration form with your personal information.' },
         { title: 'Submit Your Form', desc: 'Upload or bring your completed form and required documents.' },
         { title: 'Get Approved', desc: 'Our admissions office will review your application and contact you.' },
-        { title: 'Start Your Journey', desc: "Once approved, you're officially part of the Addinas College family!" },
+        { title: 'Start Your Journey', desc: "Once approved, you're officially part of the Bruh College family!" },
       ],
       requirements: [
         {
@@ -142,9 +142,9 @@ const translations = {
       tag: 'Student Success',
       heading: 'What Our Graduates Say',
       items: [
-        { name: 'Mekdes Alemu', program: 'BSc Health Information Management, 2023', text: 'Addinas College transformed my career. The practical training and supportive faculty helped me land a job at ALERT hospital right after graduation. Best decision I ever made!' },
+        { name: 'Mekdes Alemu', program: 'BSc Health Information Management, 2023', text: 'Bruh College transformed my career. The practical training and supportive faculty helped me land a job at ALERT hospital right after graduation. Best decision I ever made!' },
         { name: 'Yohannes Tesfaye', program: 'TVET Pharmacy Technology, 2022', text: 'The TVET program was intensive and highly practical. I now run my own pharmacy in Injibara. The instructors were experienced professionals who genuinely cared about our success.' },
-        { name: 'Selamawit Bekele', program: 'BA Business Management, 2024', text: 'As a working mother, the extension program was perfect for me. I studied on weekends and evenings, and graduated with honors. Addinas College made it possible!' },
+        { name: 'Selamawit Bekele', program: 'BA Business Management, 2024', text: 'As a working mother, the extension program was perfect for me. I studied on weekends and evenings, and graduated with honors. Bruh College made it possible!' },
         { name: 'Dawit Girma', program: 'BSc Information Technology, 2023', text: "The IT program is up-to-date with industry standards. We had access to modern computer labs and strong internship placements. I'm now working as a software developer." },
       ],
     },
@@ -154,8 +154,8 @@ const translations = {
       heading: 'News & Events',
       viewAll: 'View All Articles',
       items: [
-        { category: 'Admissions', date: 'June 15, 2025', readTime: '3 min read', title: 'Addinas College Opens Registration for 2025/26 Academic Year', excerpt: 'Applications are now open for all undergraduate, TVET, and extension programs. Early applicants receive priority placement and scholarship consideration.' },
-        { category: 'Achievement', date: 'May 28, 2025', readTime: '4 min read', title: 'Our Graduates Achieve 98% Employment Rate Across Health Sectors', excerpt: "A new survey confirms that Addinas College graduates continue to lead in Ethiopia's growing health sector, with 98% securing employment within 6 months." },
+        { category: 'Admissions', date: 'June 15, 2025', readTime: '3 min read', title: 'Bruh College Opens Registration for 2025/26 Academic Year', excerpt: 'Applications are now open for all undergraduate, TVET, and extension programs. Early applicants receive priority placement and scholarship consideration.' },
+        { category: 'Achievement', date: 'May 28, 2025', readTime: '4 min read', title: 'Our Graduates Achieve 98% Employment Rate Across Health Sectors', excerpt: "A new survey confirms that Bruh College graduates continue to lead in Ethiopia's growing health sector, with 98% securing employment within 6 months." },
         { category: 'Events', date: 'May 10, 2025', readTime: '2 min read', title: 'Annual Graduation Ceremony 2025 — Celebrating 1,200 New Graduates', excerpt: 'Join us in celebrating the accomplishments of our latest class of graduates during our grand ceremony at the college main hall.' },
         { category: 'Partnerships', date: 'April 22, 2025', readTime: '5 min read', title: "New MoU Signed with Ethiopia's Ministry of Health for Clinical Training", excerpt: 'A landmark agreement will place our health science students in leading government hospitals for clinical rotations across Injibara.' },
       ],
@@ -167,7 +167,7 @@ const translations = {
       subheading: 'Have questions? Our team is here to help. Reach out to us anytime.',
       infoTitle: 'Contact Information',
       labels: ['Phone', 'Email', 'Address', 'Office Hours'],
-      values: ['+251 91 234 5678', 'info@addinas-college.edu.et', 'Injibara, Ethiopia', 'Mon–Fri: 8:00 AM – 5:00 PM'],
+      values: ['+251 91 234 5678', 'info@bruh-college.edu.et', 'Injibara, Ethiopia', 'Mon–Fri: 8:00 AM – 5:00 PM'],
       followUs: 'Follow us on social media',
       formTitle: 'Send Us a Message',
       formSub: 'We typically respond within 24 hours on working days.',
@@ -179,13 +179,13 @@ const translations = {
       successTitle: 'Message Sent!',
       successText: 'Thank you for reaching out. Our team will respond within 24 hours.',
       sendAnother: 'Send Another',
-      mapCaption: 'Addinas College Campus',
+      mapCaption: 'Bruh College Campus',
       mapSub: 'Injibara',
     },
     // Footer
     footer: {
       ctaHeading: 'Ready to Transform Your Future?',
-      ctaSub: 'Join thousands of successful Addinas College graduates.',
+      ctaSub: 'Join thousands of successful Bruh College graduates.',
       applyNow: 'Apply Now',
       tagline: 'Premier Health Science & Business education institution in Injibara, Ethiopia. Empowering students since 2005.',
       quickLinks: 'Quick Links',
@@ -195,7 +195,7 @@ const translations = {
       emailPH: 'Your email',
       links: ['Home', 'About Us', 'Programs', 'Admissions', 'News & Events', 'Contact'],
       programs: ['Health Information Management', 'Business Management', 'Information Technology', 'Pharmacy Technology', 'Medical Laboratory', 'Extension Programs'],
-      rights: '© {{year}} Addinas College. All rights reserved.',
+      rights: '© {{year}} Bruh College. All rights reserved.',
       privacy: 'Privacy Policy',
       terms: 'Terms of Service',
       sitemap: 'Sitemap',
@@ -203,7 +203,7 @@ const translations = {
     // Registration Modal
     modal: {
       title: 'Registration Form',
-      subtitle: 'Addinas College — 2025/26 Academic Year',
+      subtitle: 'Bruh College — 2025/26 Academic Year',
       steps: ['Personal Info', 'Program Selection', 'Documents', 'Review'],
       personalTitle: 'Personal Information',
       programTitle: 'Program Selection',
@@ -226,7 +226,7 @@ const translations = {
         notes: 'Additional Notes (Optional)', notesPH: 'Any special requirements or questions?',
         terms: 'I confirm that all information provided is accurate and that I have read and agree to the',
         termsLink: 'Terms & Conditions',
-        termsEnd: 'of Addinas College.',
+        termsEnd: 'of Bruh College.',
       },
       studyModes: ['Regular (Full-time)', 'Extension (Weekend)', 'Evening Classes', 'Distance Learning'],
       docSections: [
@@ -259,7 +259,7 @@ const translations = {
     leadership: {
       tag: 'Our Team',
       heading: 'College Leadership',
-      subheading: 'Meet the dedicated professionals guiding Addinas College towards academic excellence.',
+      subheading: 'Meet the dedicated professionals guiding Bruh College towards academic excellence.',
       roles: ['Dean of College', 'Academic Vice Dean', 'Head of Health Sciences', 'Head of Business & IT'],
       names: ['Dr. Samuel Tadesse', 'W/ro Bethlehem Girma', 'Dr. Abebech Worku', 'Ato Dawit Mekonnen'],
     },
@@ -313,7 +313,7 @@ const translations = {
       badge: '🎓 ምዝገባ ክፍት ነው 2025/26',
       slides: [
         {
-          title: 'የወደፊቱን ሕይወትዎን በአዲናስ ኮሌጅ ይቅረጹ',
+          title: 'የወደፊቱን ሕይወትዎን በብሩህ ኮሌጅ ይቅረጹ',
           subtitle: 'ኢትዮጵያ ውስጥ ቀዳሚ የጤና ሳይንስ እና ቢዝነስ ትምህርት',
           desc: 'ለዲግሪ፣ ቴቬት እና ኤክስቴንሽን ፕሮግራሞች ምዝገባ ክፍት ነው። ሙያቸውን የቀየሩ ሺዎች ምሩቃን ቤተሰብ ይቀላቀሉ።',
         },
@@ -343,8 +343,8 @@ const translations = {
     },
     about: {
       tag: 'እነማን ነን',
-      heading: 'ስለ አዲናስ ኮሌጅ',
-      p1: 'አዲናስ ኮሌጅ በእንጅባራ፣ ኢትዮጵያ ውስጥ ቀዳሚ የከፍተኛ ትምህርት ተቋም ሲሆን ብቁ፣ ሥነ ምግባረኛ እና ዓለም አቀፍ ተወዳዳሪ ባለሙያዎችን ለማፍራት ቁርጠኛ ነው።',
+      heading: 'ስለ ብሩህ ኮሌጅ',
+      p1: 'ብሩህ ኮሌጅ በእንጅባራ፣ ኢትዮጵያ ውስጥ ቀዳሚ የከፍተኛ ትምህርት ተቋም ሲሆን ብቁ፣ ሥነ ምግባረኛ እና ዓለም አቀፍ ተወዳዳሪ ባለሙያዎችን ለማፍራት ቁርጠኛ ነው።',
       p2: 'ከሁለት አስርት ዓመት በላይ በፊት ከተቋቋምን ጀምሮ፣ ፕሮፈሰሮቻቸው ቀምር ፕሮፈሰሮቻቸውን ውስጥ ቅንጅት ያደረጉ ዲግሪ፣ ቴቬት እና ኤክስቴንሽን ፕሮግራሞችን በማቅረብ ወደ ትምህርት ልህቀት ማዕከልነት ተሸጋግረናል።',
       features: ['ቴቬት እና ዲግሪ ሙሉ እውቅና', 'በትምህርት ሚኒስቴር የታወቀ', 'የኢንዱስትሪ ሽርክና', 'ዘመናዊ ላቦራቶሪዎች', 'ልምድ ያላቸው መምህራን', 'የሙያ ምደባ አገልግሎቶች'],
       missionTitle: 'ተልዕኮአችን',
@@ -396,7 +396,7 @@ const translations = {
     admissions: {
       tag: 'ይቀላቀሉን',
       heading: 'ምዝገባ',
-      subheading: 'በአዲናስ ኮሌጅ የትምህርት ጉዞዎን ለመጀመር እነዚህን ቀላል ደረጃዎች ይከተሉ።',
+      subheading: 'በብሩህ ኮሌጅ የትምህርት ጉዞዎን ለመጀመር እነዚህን ቀላል ደረጃዎች ይከተሉ።',
       howTitle: 'እንዴት ይመዘገባሉ',
       reqTitle: 'የምዝገባ መስፈርቶች',
       ctaHeading: 'ጉዞዎን ለመጀመር ዝግጁ ነዎት?',
@@ -408,7 +408,7 @@ const translations = {
         { title: 'ማመልከቻ ይሙሉ', desc: 'የመስመር ላይ ምዝገባ ቅጹን ከግል መረጃዎ ጋር ይሙሉ።' },
         { title: 'ቅጹን ያስረክቡ', desc: 'የተሞላ ቅጹ እና ሰነዶችን ይስቀሉ ወይም ያምጡ።' },
         { title: 'ይፈቀዱ', desc: 'የምዝገባ ቢሮ ማመልከቻዎን ይገመግምሉ እና ያነጋግሩዎታል።' },
-        { title: 'ጉዞዎን ይጀምሩ', desc: 'ከፈቃድ ጋር፣ ኦፊሴላዊ የአዲናስ ኮሌጅ ቤተሰብ አባል ሆኗል!' },
+        { title: 'ጉዞዎን ይጀምሩ', desc: 'ከፈቃድ ጋር፣ ኦፊሴላዊ የብሩህ ኮሌጅ ቤተሰብ አባል ሆኗል!' },
       ],
       requirements: [
         { title: 'አካዳሚያዊ ሰነዶች', items: ['ክፍል 10/12 ማጠናቀቂያ ምስክርወረቀት', 'ኦፊሴላዊ ዝርዝር ውጤት', 'ዝውውር ሰነዶች (ተፈጻሚ ከሆነ)'] },
@@ -420,7 +420,7 @@ const translations = {
       tag: 'የተማሪ ስኬት',
       heading: 'ምሩቃኖቻችን ምን ይላሉ',
       items: [
-        { name: 'መቅደስ አለሙ', program: 'ቢኤስሲ የጤና መረጃ አስተዳደር፣ 2023', text: 'አዲናስ ኮሌጅ ሙያዬን ቀይሮታል። ተግባራዊ ስልጠናው እና ደጋፊ ፋኩልቲው ከምረቃ ወዲያ ALERT ሆስፒታል ሥራ እንዳገኝ ረዳኝ!' },
+        { name: 'መቅደስ አለሙ', program: 'ቢኤስሲ የጤና መረጃ አስተዳደር፣ 2023', text: 'ብሩህ ኮሌጅ ሙያዬን ቀይሮታል። ተግባራዊ ስልጠናው እና ደጋፊ ፋኩልቲው ከምረቃ ወዲያ ALERT ሆስፒታል ሥራ እንዳገኝ ረዳኝ!' },
         { name: 'ዮሐንስ ተስፋዬ', program: 'ቴቬት ፋርማሲ ቴክኖሎጂ፣ 2022', text: 'ቴቬት ፕሮግራሙ ጥልቅ እና ተግባራዊ ነበር። አሁን በእንጅባራ የራሴ ፋርማሲ አለኝ። መምህራኑ ስኬታችንን ትክክለኛ ቁርጠኝነት ያሳዩ ባለሙያዎች ነበሩ።' },
         { name: 'ሰላማዊት በቀለ', program: 'ቢኤ ቢዝነስ አስተዳደር፣ 2024', text: 'እናት ሆኜ ሰርቼ ስለምቀጥልበት ኤክስቴንሽን ፕሮግራሙ ፍጹም ነበር። ሳምንት መጨረሻ ተምሬ ሙሉ ዝናን ይዤ ተመረቅሁ!' },
         { name: 'ዳዊት ግርማ', program: 'ቢኤስሲ የመረጃ ቴክኖሎጂ፣ 2023', text: 'IT ፕሮግራሙ ከኢንዱስትሪ ደረጃ ጋር ወቅታዊ ነው። ዘመናዊ ኮምፒውተር ላቦ ነበረን። አሁን ሶፍትዌር ዴቨሎፐር ሆኜ እሰራለሁ።' },
@@ -431,8 +431,8 @@ const translations = {
       heading: 'ዜናዎች እና ዝግጅቶች',
       viewAll: 'ሁሉንም ጽሑፎች ይመልከቱ',
       items: [
-        { category: 'ምዝገባ', date: 'ሰኔ 15፣ 2025', readTime: '3 ደቂቃ ንባብ', title: 'አዲናስ ኮሌጅ ለ2025/26 ዓ.ም ምዝገባ ከፈተ', excerpt: 'ለሁሉም የዲግሪ፣ ቴቬት እና ኤክስቴንሽን ፕሮግራሞች ማመልከቻዎች አሁን ክፍት ናቸው። ቀደምት ተመዝጋቢዎች ቅድሚያ ቦታ ያገኛሉ።' },
-        { category: 'ስኬት', date: 'ግንቦት 28፣ 2025', readTime: '4 ደቂቃ ንባብ', title: 'ምሩቃኖቻችን 98% የሥራ ስምሪት ደረጃ አሳኩ', excerpt: 'አዲናስ ኮሌጅ ምሩቃን ቀጣይ ኢትዮጵያ ውስጥ ቀዳሚ ናቸው - 98% በ6 ወር ውስጥ ሥራ አገኙ።' },
+        { category: 'ምዝገባ', date: 'ሰኔ 15፣ 2025', readTime: '3 ደቂቃ ንባብ', title: 'ብሩህ ኮሌጅ ለ2025/26 ዓ.ም ምዝገባ ከፈተ', excerpt: 'ለሁሉም የዲግሪ፣ ቴቬት እና ኤክስቴንሽን ፕሮግራሞች ማመልከቻዎች አሁን ክፍት ናቸው። ቀደምት ተመዝጋቢዎች ቅድሚያ ቦታ ያገኛሉ።' },
+        { category: 'ስኬት', date: 'ግንቦት 28፣ 2025', readTime: '4 ደቂቃ ንባብ', title: 'ምሩቃኖቻችን 98% የሥራ ስምሪት ደረጃ አሳኩ', excerpt: 'ብሩህ ኮሌጅ ምሩቃን ቀጣይ ኢትዮጵያ ውስጥ ቀዳሚ ናቸው - 98% በ6 ወር ውስጥ ሥራ አገኙ።' },
         { category: 'ዝግጅቶች', date: 'ግንቦት 10፣ 2025', readTime: '2 ደቂቃ ንባብ', title: 'ዓመታዊ የምረቃ ሥነ ሥርዓት 2025 — 1,200 ምሩቃንን አወደሰ', excerpt: 'ወደ ኮሌጁ ዋና አዳራሽ ቀጣዩ ምሩቃን ክብር ስነ ስርዓት ላይ ይቀላቀሉን።' },
         { category: 'ሽርክና', date: 'ሚያዚያ 22፣ 2025', readTime: '5 ደቂቃ ንባብ', title: 'ከጤና ሚኒስቴር ጋር አዲስ ስምምነት ተፈረመ', excerpt: 'ታሪካዊ ስምምነት ተማሪዎቻችን በእንጅባራ ዋና ሆስፒታሎች ቀጥተኛ ስልጠና ያደርጋሉ።' },
       ],
@@ -443,7 +443,7 @@ const translations = {
       subheading: 'ጥያቄ አለዎት? ቡድናችን ለመርዳት ዝግጁ ነው። መቼም ቢሆን ያናግሩን።',
       infoTitle: 'የእኛ መረጃ',
       labels: ['ስልክ', 'ኢሜይል', 'አድራሻ', 'የቢሮ ሰዓት'],
-      values: ['+251 91 234 5678', 'info@addinas-college.edu.et', 'እንጅባራ፣ ኢትዮጵያ', 'ሰኞ–አርብ: 1:00 – 10:00'],
+      values: ['+251 91 234 5678', 'info@bruh-college.edu.et', 'እንጅባራ፣ ኢትዮጵያ', 'ሰኞ–አርብ: 1:00 – 10:00'],
       followUs: 'ማህበራዊ ሚዲያ ተከተሉን',
       formTitle: 'መልዕክት ይላኩ',
       formSub: 'ብዙውን ጊዜ በ24 ሰዓታት ውስጥ ምላሽ እንሰጣለን።',
@@ -455,12 +455,12 @@ const translations = {
       successTitle: 'መልዕክቱ ተልኳል!',
       successText: 'ስለ ደረሱን እናመሰግናለን። ቡድናችን በ24 ሰዓታት ውስጥ ምላሽ ይሰጣል።',
       sendAnother: 'ሌላ ይላኩ',
-      mapCaption: 'የአዲናስ ኮሌጅ ካምፓስ',
+      mapCaption: 'የብሩህ ኮሌጅ ካምፓስ',
       mapSub: 'እንጅባራ',
     },
     footer: {
       ctaHeading: 'የወደፊቱን ሕይወትዎን ለመለወጥ ዝግጁ ነዎት?',
-      ctaSub: 'ሺዎች ስኬታማ የአዲናስ ኮሌጅ ምሩቃን ጋር ይቀላቀሉ።',
+      ctaSub: 'ሺዎች ስኬታማ የብሩህ ኮሌጅ ምሩቃን ጋር ይቀላቀሉ።',
       applyNow: 'አሁን ይመዝገቡ',
       tagline: 'በእንጅባራ፣ ኢትዮጵያ ቀዳሚ የጤና ሳይንስ እና ቢዝነስ ትምህርት ተቋም። ከ2005 ጀምሮ ተማሪዎችን እናበቃቃለን።',
       quickLinks: 'ፈጣን አገናኞች',
@@ -470,14 +470,14 @@ const translations = {
       emailPH: 'ኢሜይልዎ',
       links: ['ዋና ገጽ', 'ስለ ኮሌጁ', 'ፕሮግራሞች', 'ምዝገባ', 'ዜናዎች እና ዝግጅቶች', 'ያግኙን'],
       programs: ['የጤና መረጃ አስተዳደር', 'የቢዝነስ አስተዳደር', 'የመረጃ ቴክኖሎጂ', 'ፋርማሲ ቴክኖሎጂ', 'ሕክምና ላቦራቶሪ', 'ኤክስቴንሽን ፕሮግራሞች'],
-      rights: '© {{year}} አዲናስ ኮሌጅ። መብቱ በህግ የተጠበቀ ነው።',
+      rights: '© {{year}} ብሩህ ኮሌጅ። መብቱ በህግ የተጠበቀ ነው።',
       privacy: 'የግለኝነት ፖሊሲ',
       terms: 'የአገልግሎት ውሎች',
       sitemap: 'ሳይትማፕ',
     },
     modal: {
       title: 'የምዝገባ ቅጽ',
-      subtitle: 'አዲናስ ኮሌጅ — 2025/26 ዓ.ም',
+      subtitle: 'ብሩህ ኮሌጅ — 2025/26 ዓ.ም',
       steps: ['የግል መረጃ', 'ፕሮግራም ምርጫ', 'ሰነዶች', 'ክለሳ'],
       personalTitle: 'የግል መረጃ',
       programTitle: 'ፕሮግራም ምርጫ',
@@ -533,7 +533,7 @@ const translations = {
     leadership: {
       tag: 'የእኛ ቡድን',
       heading: 'የኮሌጅ አመራር',
-      subheading: 'አዲናስ ኮሌጅን ወደ ትምህርት ልህቀት የሚመሩትን ባለሙያዎች ያግኙ።',
+      subheading: 'ብሩህ ኮሌጅን ወደ ትምህርት ልህቀት የሚመሩትን ባለሙያዎች ያግኙ።',
       roles: ['የኮሌጁ ዲን', 'የአካዳሚክ ምክትል ዲን', 'የጤና ሳይንስ ኃላፊ', 'የቢዝነስ እና አይቲ ኃላፊ'],
       names: ['ዶ/ር ሳሙኤል ታደሰ', 'ወ/ሮ ቤተልሔም ግርማ', 'ዶ/ር አበበች ወርቁ', 'አቶ ዳዊት መኮንን'],
     },

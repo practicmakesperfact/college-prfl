@@ -85,7 +85,7 @@ export default function DigitalLibrary() {
                <div className="flex items-center gap-3 mb-6 shrink-0">
                  <div className="w-10 h-10 rounded-full bg-yellow-400/20 flex items-center justify-center text-yellow-400"><BookOpen size={20} /></div>
                  <div>
-                   <div className="text-white font-bold text-sm">Addinas E-Library</div>
+                   <div className="text-white font-bold text-sm">Bruh E-Library</div>
                    <div className="text-white/50 text-xs">{isLoggedIn ? 'Department Resources' : 'Student Portal'}</div>
                  </div>
                </div>
@@ -143,7 +143,7 @@ export default function DigitalLibrary() {
                 <Lock size={24} />
               </div>
               <h3 className="text-2xl font-bold text-[#1a3a5c] mb-2 font-display">Student Login</h3>
-              <p className="text-gray-500 text-sm mb-6">Enter your Addinas College credentials to access downloadable study materials and department ZIP files.</p>
+              <p className="text-gray-500 text-sm mb-6">Enter your Bruh College credentials to access downloadable study materials and department ZIP files.</p>
               
               <form onSubmit={handleLogin} className="space-y-4">
                 <div>

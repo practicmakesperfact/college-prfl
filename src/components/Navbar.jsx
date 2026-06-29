@@ -67,7 +67,7 @@ export default function Navbar({ activePage, setActivePage, onApplyClick }) {
             <GraduationCap className="text-[#1a3a5c]" size={26} />
           </div>
           <div className="text-left">
-            <div className="text-white font-bold text-lg leading-tight font-display">ADDINAS</div>
+            <div className="text-white font-bold text-lg leading-tight font-display">BRUH</div>
             <div className="text-yellow-400 text-xs font-medium tracking-widest uppercase">College</div>
           </div>
         </button>

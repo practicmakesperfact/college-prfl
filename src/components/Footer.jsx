@@ -41,7 +41,7 @@ export default function Footer({ onApplyClick }) {
               <GraduationCap className="text-[#1a3a5c]" size={26} />
             </div>
             <div>
-              <div className="text-white font-bold text-xl leading-tight font-display">ADDINAS</div>
+              <div className="text-white font-bold text-xl leading-tight font-display">BRUH</div>
               <div className="text-yellow-400 text-xs font-medium tracking-widest uppercase">College</div>
             </div>
           </div>

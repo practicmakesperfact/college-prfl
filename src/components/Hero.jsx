@@ -98,7 +98,7 @@ export default function Hero({ onApplyClick }) {
               <div className="w-20 h-20 rounded-2xl bg-gradient-to-br from-yellow-400 to-yellow-600 flex items-center justify-center mx-auto mb-5 shadow-xl">
                 <span className="text-4xl">🎓</span>
               </div>
-              <h3 className="text-white text-2xl font-bold text-center font-display">Addinas College</h3>
+              <h3 className="text-white text-2xl font-bold text-center font-display">Bruh College</h3>
               <p className="text-white/60 text-sm text-center mt-2">{t.hero.cardSubtitle}</p>
               <div className="mt-5 space-y-2">
                 {t.hero.cardItems.map((item) => (

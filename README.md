@@ -1,6 +1,6 @@
-# Addinas College Web Portal
+# Bruh College Web Portal
 
-A modern, responsive, and bilingual front-end web portal for **Addinas College**, built with React, Vite, and Tailwind CSS. The application showcases the college's programs, admissions, leadership, and a secure student digital library.
+A modern, responsive, and bilingual front-end web portal for **Bruh College**, built with React, Vite, and Tailwind CSS. The application showcases the college's programs, admissions, leadership, and a secure student digital library.
 
 ## 🌟 Features
 
